@@ -1,0 +1,471 @@
+[
+ {
+    "id": 7090954,
+    "name": "Capital Governorate",
+    "country": "BH",
+    "coord": {
+      "lon": 50.583328,
+      "lat": 26.216669
+    }
+  },
+  {
+    "id": 290215,
+    "name": "Jidd Hafs",
+    "country": "BH",
+    "coord": {
+      "lon": 50.547779,
+      "lat": 26.218611
+    }
+  },
+  {
+    "id": 290247,
+    "name": "Madinat Hamad",
+    "country": "BH",
+    "coord": {
+      "lon": 50.506939,
+      "lat": 26.11528
+    }
+  },
+  {
+    "id": 290269,
+    "name": "Dar Kulayb",
+    "country": "BH",
+    "coord": {
+      "lon": 50.503891,
+      "lat": 26.068609
+    }
+  },
+  {
+    "id": 290332,
+    "name": "Al Muharraq",
+    "country": "BH",
+    "coord": {
+      "lon": 50.611938,
+      "lat": 26.257219
+    }
+  },
+  {
+    "id": 385038,
+    "name": "Ar Rifa",
+    "country": "BH",
+    "coord": {
+      "lon": 50.555,
+      "lat": 26.129999
+    }
+  },
+
+  {
+    "id": 286245,
+    "name": "Sur",
+    "country": "OM",
+    "coord": {
+      "lon": 59.528889,
+      "lat": 22.566669
+    }
+  },
+  {
+    "id": 286293,
+    "name": "Sufalat Samail",
+    "country": "OM",
+    "coord": {
+      "lon": 58.01667,
+      "lat": 23.316669
+    }
+  },
+  {
+    "id": 286402,
+    "name": "Shinas",
+    "country": "OM",
+    "coord": {
+      "lon": 56.465832,
+      "lat": 24.74333
+    }
+  },
+  {
+    "id": 287814,
+    "name": "Izki",
+    "country": "OM",
+    "coord": {
+      "lon": 57.76667,
+      "lat": 22.933331
+    }
+  },
+  {
+    "id": 287830,
+    "name": "Ibri",
+    "country": "OM",
+    "coord": {
+      "lon": 56.51572,
+      "lat": 23.225731
+    }
+  },
+  {
+    "id": 288789,
+    "name": "Barka",
+    "country": "OM",
+    "coord": {
+      "lon": 57.88908,
+      "lat": 23.70739
+    }
+  },
+  {
+    "id": 288899,
+    "name": "Bahla",
+    "country": "OM",
+    "coord": {
+      "lon": 57.29958,
+      "lat": 22.973391
+    }
+  },
+  {
+    "id": 288967,
+    "name": "As Sib al Jadidah",
+    "country": "OM",
+    "coord": {
+      "lon": 58.18911,
+      "lat": 23.670271
+    }
+  },
+  {
+    "id": 289011,
+    "name": "Ar Rustaq",
+    "country": "OM",
+    "coord": {
+      "lon": 57.424438,
+      "lat": 23.390829
+    }
+  },
+  {
+    "id": 289174,
+    "name": "Al Liwa",
+    "country": "OM",
+    "coord": {
+      "lon": 56.565559,
+      "lat": 24.53611
+    }
+  },
+  {
+    "id": 289199,
+    "name": "Al Khaburah",
+    "country": "OM",
+    "coord": {
+      "lon": 57.098381,
+      "lat": 23.98864
+    }
+  },
+  {
+    "id": 289317,
+    "name": "Al Buraymi",
+    "country": "OM",
+    "coord": {
+      "lon": 55.793121,
+      "lat": 24.250879
+    }
+  },
+  {
+    "id": 411849,
+    "name": "Yanqul",
+    "country": "OM",
+    "coord": {
+      "lon": 56.550079,
+      "lat": 23.590509
+    }
+  },
+   {
+    "id": 100926,
+    "name": "Umm Lajj",
+    "country": "SA",
+    "coord": {
+      "lon": 37.268501,
+      "lat": 25.021259
+    }
+  },
+  {
+    "id": 101322,
+    "name": "Turabah",
+    "country": "SA",
+    "coord": {
+      "lon": 41.633099,
+      "lat": 21.21406
+    }
+  },
+  {
+    "id": 102651,
+    "name": "Sabya",
+    "country": "SA",
+    "coord": {
+      "lon": 42.62537,
+      "lat": 17.1495
+    }
+  },
+  {
+    "id": 107781,
+    "name": "Az Zulfi",
+    "country": "SA",
+    "coord": {
+      "lon": 44.815418,
+      "lat": 26.29945
+    }
+  },
+  {
+    "id": 102358,
+    "name": "Kingdom of Saudi Arabia",
+    "country": "SA",
+    "coord": {
+      "lon": 45,
+      "lat": 25
+    }
+  },
+  {
+    "id": 104514,
+    "name": "Minţaqat Makkah",
+    "country": "SA",
+    "coord": {
+      "lon": 41.333328,
+      "lat": 20.66667
+    }
+  },
+  {
+    "id": 411338,
+    "name": "Al Mudawwarah",
+    "country": "SA",
+    "coord": {
+      "lon": 39.962681,
+      "lat": 21.271589
+    }
+  },
+  {
+    "id": 101752,
+    "name": "Şumaymah",
+    "country": "SA",
+    "coord": {
+      "lon": 39.157711,
+      "lat": 21.249649
+    }
+  },
+   {
+    "id": 108410,
+    "name": "Riyadh",
+    "country": "SA",
+    "coord": {
+      "lon": 46.721851,
+      "lat": 24.687731
+    }
+  },
+  {
+    "id": 292673,
+    "name": "Ash Shāriqah",
+    "country": "AE",
+    "coord": {
+      "lon": 55.75,
+      "lat": 25
+    }
+  },
+  {
+    "id": 292672,
+    "name": "Sharjah",
+    "country": "AE",
+    "coord": {
+      "lon": 55.403301,
+      "lat": 25.357309
+    }
+  },
+  {
+    "id": 6691135,
+    "name": "Al Ghuwair",
+    "country": "AE",
+    "coord": {
+      "lon": 55.391911,
+      "lat": 25.35985
+    }
+  },
+  {
+    "id": 292224,
+    "name": "Dubayy",
+    "country": "AE",
+    "coord": {
+      "lon": 55.333328,
+      "lat": 25
+    }
+  },
+  {
+    "id": 292223,
+    "name": "Dubai",
+    "country": "AE",
+    "coord": {
+      "lon": 55.304722,
+      "lat": 25.258169
+    }
+  },
+  {
+    "id": 290845,
+    "name": "Shandaghah",
+    "country": "AE",
+    "coord": {
+      "lon": 55.283329,
+      "lat": 25.258329
+    }
+  },
+  {
+    "id": 292913,
+    "name": "Al Ayn",
+    "country": "AE",
+    "coord": {
+      "lon": 55.760559,
+      "lat": 24.191669
+    }
+  },
+  {
+    "id": 292879,
+    "name": "Al Fujayrah",
+    "country": "AE",
+    "coord": {
+      "lon": 56.25,
+      "lat": 25.133329
+    }
+  },
+  {
+    "id": 292878,
+    "name": "Al Fujayrah",
+    "country": "AE",
+    "coord": {
+      "lon": 56.341412,
+      "lat": 25.116409
+    }
+  },
+  {
+    "id": 291110,
+    "name": "Rafā‘",
+    "country": "AE",
+    "coord": {
+      "lon": 56.35014,
+      "lat": 25.34701
+    }
+  },
+  {
+    "id": 411804,
+    "name": "Al Jasrah",
+    "country": "QA",
+    "coord": {
+      "lon": 51.534168,
+      "lat": 25.28611
+    }
+  },
+  {
+    "id": 8030540,
+    "name": "Baladīyat az̧ Z̧a‘āyin",
+    "country": "QA",
+    "coord": {
+      "lon": 51.450001,
+      "lat": 25.51667
+    }
+  },
+  {
+    "id": 289911,
+    "name": "Al Wusayl",
+    "country": "QA",
+    "coord": {
+      "lon": 51.485279,
+      "lat": 25.497499
+    }
+  },
+  {
+    "id": 389467,
+    "name": "Baladīyat Umm Şalāl",
+    "country": "QA",
+    "coord": {
+      "lon": 51.333328,
+      "lat": 25.466669
+    }
+  },
+  {
+    "id": 289523,
+    "name": "Umm Salal Muhammad",
+    "country": "QA",
+    "coord": {
+      "lon": 51.403889,
+      "lat": 25.416941
+    }
+  },
+  {
+    "id": 289888,
+    "name": "Ar Rayyan",
+    "country": "QA",
+    "coord": {
+      "lon": 51.424438,
+      "lat": 25.291941
+    }
+  },
+  {
+    "id": 289915,
+    "name": "Al Wakrah",
+    "country": "QA",
+    "coord": {
+      "lon": 51.603371,
+      "lat": 25.171511
+    }
+  },
+  {
+    "id": 289962,
+    "name": "Al Khawr",
+    "country": "QA",
+    "coord": {
+      "lon": 51.505829,
+      "lat": 25.683889
+    }
+  },
+   {
+    "id": 285673,
+    "name": "Az Zawr",
+    "country": "KW",
+    "coord": {
+      "lon": 48.274719,
+      "lat": 29.442499
+    }
+  },
+  {
+    "id": 285721,
+    "name": "Ash Shamiyah",
+    "country": "KW",
+    "coord": {
+      "lon": 47.96167,
+      "lat": 29.347219
+    }
+  },
+  {
+    "id": 285760,
+    "name": "Al Wafrah",
+    "country": "KW",
+    "coord": {
+      "lon": 47.930561,
+      "lat": 28.63917
+    }
+  },
+  {
+    "id": 285810,
+    "name": "Al Funaytis",
+    "country": "KW",
+    "coord": {
+      "lon": 48.101669,
+      "lat": 29.225281
+    }
+  },
+  {
+    "id": 285728,
+    "name": "Ar Riqqah",
+    "country": "KW",
+    "coord": {
+      "lon": 48.094719,
+      "lat": 29.14583
+    }
+  },
+  {
+    "id": 285798,
+    "name": "Muḩāfaz̧at Jahrā’",
+    "country": "KW",
+    "coord": {
+      "lon": 47.666672,
+      "lat": 29.33333
+    }
+  }
+  ]

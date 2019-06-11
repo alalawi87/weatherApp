@@ -1,0 +1,33 @@
+<!--
+  Generated template for the DetialsPage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+  <ion-navbar>
+    <ion-title>detials</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+ 
+    <h1>{{contactdetails.city}}</h1>
+    <h2>{{contactdetails.country}}</h2>
+    <div *ngIf="temp != null" >
+   Temp:{{temp.main.temp-273 | number}} <br>
+   pressure:{{temp.main.pressure}}<br>
+   humidity:{{temp.main.humidity}}<br> 
+   weatherdescription:{{temp.weather[0].description}}<br>
+   <div *ngIf="temp.weather[0].description == 'clear sky'; else haze" >
+    <img style="display: block; margin-left: auto; margin-right: auto;" src="../../assets/imgs/Sunny.png" ></div>
+    <ng-template #haze>
+    <div *ngIf="temp.weather[0].description == 'haze'; else others" >
+      <img style="display: block; margin-left: auto; margin-right: auto;" src="../../assets/imgs/Haze.png" ></div>
+    <ng-template #others>
+      <img  style="display: block; margin-left: auto; margin-right: auto;" src="../../assets/imgs/Cloudy.png" >
+    </ng-template> </ng-template>
+  </div>
+    
+
+</ion-content>

@@ -1,0 +1,77 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      GCC Weather
+      
+        
+    </ion-title>
+   
+    
+    <ion-buttons end>
+        
+        <button ion-button (click)=aboutcontant()>
+          <ion-icon name="book"></ion-icon>
+         
+   
+   
+        </button>
+
+        
+        
+        <button ion-button (click)=toggle()>
+            <ion-icon name="flash" large color="danger" (click)="toggle()" *ngIf="!reorderT"></ion-icon>
+<ion-icon name="flash" large color="secondary" (click)="toggle()" *ngIf="reorderT"></ion-icon>
+
+           
+     
+     
+          </button>
+        <button ion-button (click)=addcontant()>
+          <ion-icon name="add-circle"></ion-icon>
+          <ion-badge color="secondary"> {{countRec}}</ion-badge>
+        </button>
+        
+        </ion-buttons>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+    <ion-item>
+        <ion-label>country</ion-label>
+        <ion-select [(ngModel)]="country" okText="Okay" cancelText="Dismiss">
+           
+          <ion-option  *ngFor="let item of countryareatoadd; " value={{item.name}}>{{item.country}}-{{item.name}}</ion-option>
+         
+         
+        </ion-select>
+      
+  </ion-item>
+ <ion-list [reorder]="reorderT" (ionItemReorder)="Reorder($event)"> 
+    
+    <ion-item-sliding *ngFor="let item of countryarea; let i=index" (click)="detailsContact(item,i)"> 
+    <ion-item>  
+      {{item.country}}- {{item.city}}</ion-item>
+
+    <ion-item-options side="right">
+      <ion-icon name="trash" color="danger" (click)="deletelocation(i)"></ion-icon>
+      </ion-item-options>
+    </ion-item-sliding>
+
+    
+    
+     </ion-list>
+
+
+     
+
+     
+
+
+      
+    
+      
+    
+   
+
+</ion-content>
+
